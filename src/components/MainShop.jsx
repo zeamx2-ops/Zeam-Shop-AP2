@@ -14,6 +14,9 @@ function MainShop() {
 
   return (
     <div className="main-shop">
+      <div className="shop-global-note">
+        <b>تنويه:</b> المتجر متوفر فقط لدول الشرق الأوسط وشمال أفريقيا · الدفع حصري عبر أوريدو (يبدأ بـ 05)
+      </div>
       <div className="header-shop">
         <img src="/logo192.png" alt="logo" className="shop-logo" />
         <div>
